@@ -4,7 +4,7 @@ Evaluation of AI model outputs for medical coding accuracy.
 
 Focus areas:
 
-• ICD-10-CM coding accuracy  
+• Coding accuracy of ICD-10-CM, ICD-10-PCS and CPT  
 • DRG classification logic  
 • Clinical reasoning errors  
 • Hallucinated coding guidance
