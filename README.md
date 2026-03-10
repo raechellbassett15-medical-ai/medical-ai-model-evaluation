@@ -1,5 +1,4 @@
 # medical-ai-model-evaluation
-
 Evaluation of AI model outputs for medical coding accuracy.
 
 Focus areas:
@@ -11,12 +10,11 @@ Focus areas:
 
 Each case includes:
 
-• model prompt
-• model output
-• error analysis
-• correct coding reasoning
+1. model prompt 
+2. model output
+3. error analysis
+4.  correct coding reasoning
 
-Purpose:
+Purpose: 
 
 To demonstrate SME-level evaluation used in training and benchmarking healthcare AI systems.
-
